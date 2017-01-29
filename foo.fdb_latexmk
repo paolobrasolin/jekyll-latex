@@ -1,0 +1,13 @@
+# Fdb version 3
+["latex"] 1485716345 "foo.tex" "foo.dvi" "foo" 1485716345
+  "/tmp/texlive/texmf-dist/tex/latex/base/article.cls" 1480098821 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "/tmp/texlive/texmf-dist/tex/latex/base/size10.clo" 1480098821 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "/tmp/texlive/texmf-dist/web2c/texmf.cnf" 1480464068 31950 ac8b001dc981c955937bf505c6005d23 ""
+  "/tmp/texlive/texmf-var/web2c/pdftex/latex.fmt" 1485716345 719111 f8253c47efb4b4fa9e791f15defbbd2e ""
+  "/tmp/texlive/texmf.cnf" 1485716333 566 5c61a1198b0428a00d643b91506b16d3 ""
+  "foo.aux" 1485716345 8 a94a2480d3289e625eea47cd1b285758 ""
+  "foo.tex" 1485716345 66 e6866f412d357ab04ee1e4b7ea2bb03c ""
+  (generated)
+  "foo.aux"
+  "foo.log"
+  "foo.dvi"

@@ -1,0 +1,15 @@
+PWD /home/travis/build/paolobrasolin/texyll
+INPUT /tmp/texlive/texmf.cnf
+INPUT /tmp/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /tmp/texlive/texmf-var/web2c/pdftex/latex.fmt
+INPUT foo.tex
+OUTPUT foo.log
+INPUT /tmp/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /tmp/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /tmp/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /tmp/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT foo.aux
+INPUT foo.aux
+OUTPUT foo.aux
+OUTPUT foo.dvi
+INPUT foo.aux
